@@ -18,4 +18,13 @@ O nome "JavaScript" é bastante enganoso. Exceto por uma semelhança sintática 
 linguagem de programação Java. O JavaScript há muito superou suas raízes de linguagem de script para se tornar uma linguagem de 
 propósito geral robusta e eficiente, adequada para engenharia de software e projetos com grandes bases de código.
 
+JavaScript: Nomes, Versões e Modos
+
+JavaScript foi criado na Netscape nos primórdios da web e, tecnicamente, "JavaScript" é uma marca registrada licenciada da Sun 
+Microsystems (agora Oracle) usada para descrever a implementação da linguagem pela Netscape (agora Mozilla). A Netscape submeteu a 
+linguagem para padronização à ECMA - a European Computer Manufacturer's Association - e, devido a problemas de marca registrada, a
+versão padronizada da linguagem ficou com o nome um tanto quanto estranho de "ECMAScript". Em termos práticos todo mundo chama a 
+linguagem de JavaScript. Este livro utiliza o nome "ECMAScript" e a abreviação "ES" para se referir ao padrão da linguagem e às suas
+versões.
+
 file:///C:/Users/win/Downloads/2020_JavaScript%20The%20Definitive%20Guide.pdf 20
