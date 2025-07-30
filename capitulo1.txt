@@ -1,0 +1,21 @@
+CAPÍTULO 1
+----------
+Introdução ao JavaScript
+
+JavaScript é a linguagem de programação da Web. A grande maioria dos sites usa JavaScript, e todos os navegadores modernos - em 
+desktops, tablets e celulares - incluem interpretadores JavaScript, tornando o JavaScript a linguagem de programação mais
+implementada da história. A última década viu o Node.js possibitar a programação JavaScript fora dos navegadores web. O sucesso
+dramático do Node significa que o JavaScript é agora a linguagem de programação mais utilizada entre os desenvolvedores de software. 
+Este livro o ajudará a dominar o JavaScript, seja você um iniciante ou um profissional que já utiliza a linguagem.
+
+Se você já está familiarizado com outras linguagens de programação, pode ser útil saber que JavaScript é uma linguagem de programação 
+de alto nível, dinâmica e interpretada, que se adequa bem aos estilos de programação orientada a objetos e funcional. As variáveis do
+JavaScript são dinamicamente tipadas. Sua sintaxe é vagamente baseada em Java, mas as linguagens não têm outra relação. O JavaScript
+deriva suas funções de primeira classe do Scheme e sua herança baseada em protótipos da pouca conhecida linguagem Self. Mas você não
+precisa conhecer nenhuma dessas linguagens, ou estar familiarizado com esses termos, para usar este livro e aprender JavaScript.
+
+O nome "JavaScript" é bastante enganoso. Exceto por uma semelhança sintática superficial, JavaScript é completamente diferente da
+linguagem de programação Java. O JavaScript há muito superou suas raízes de linguagem de script para se tornar uma linguagem de 
+propósito geral robusta e eficiente, adequada para engenharia de software e projetos com grandes bases de código.
+
+file:///C:/Users/win/Downloads/2020_JavaScript%20The%20Definitive%20Guide.pdf 20
